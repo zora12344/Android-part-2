@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Ecole</string>
+    <string-array name="planets_array">
+        <item>Etudiant</item>
+        <item>Professeur</item>
+    </string-array>
+</resources>

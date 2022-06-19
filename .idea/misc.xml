@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/f.bouhassoun/Desktop/pfe/Ecole/Ecole/app/src/main/res/layout/activity_bultins.xml" value="0.35260416666666666" />
+        <entry key="..\:/Users/f.bouhassoun/Desktop/pfe/Ecole/Ecole/app/src/main/res/layout/activity_list_classe.xml" value="0.35260416666666666" />
+        <entry key="..\:/Users/f.bouhassoun/Desktop/pfe/Ecole/Ecole/app/src/main/res/layout/activity_main.xml" value="0.35260416666666666" />
+        <entry key="..\:/Users/f.bouhassoun/Desktop/pfe/Ecole/Ecole/app/src/main/res/layout/activity_newnote.xml" value="0.17395833333333333" />
+        <entry key="..\:/Users/f.bouhassoun/Desktop/pfe/Ecole/Ecole/app/src/main/res/layout/activity_prof_accueil.xml" value="0.17395833333333333" />
+        <entry key="..\:/Users/f.bouhassoun/Desktop/pfe/Ecole/Ecole/app/src/main/res/layout/activity_stud_accueil.xml" value="0.17395833333333333" />
+        <entry key="..\:/Users/f.bouhassoun/Desktop/pfe/Ecole/Ecole/app/src/main/res/layout/activity_update_note.xml" value="0.17395833333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_15" default="true" project-jdk-name="15" project-jdk-type="JavaSDK" />
+  <component name="ProjectType">
+    <option name="id" value="jpab" />
+  </component>
+</project>
